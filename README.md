@@ -1,2 +1,2 @@
 # 82percobaan
-first experience 
+first try
